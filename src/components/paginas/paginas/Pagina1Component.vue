@@ -38,6 +38,7 @@
         delectus nobis architecto eius temporibus, aperiam in provident non
         minus sapiente exercitationem excepturi.
       </p>
+
       <div class="proxima-pag">
         <button @click="back"><i class="bi bi-arrow-left-short"></i></button>
         <button @click="next"><i class="bi bi-arrow-right-short"></i></button>
