@@ -1,24 +1,9 @@
 # paginas
 
-## Project setup
-```
-npm install
-```
+Criação de um diário usando vue router. Cada página é uma rota e nesse projeto o intuito era de usar os métodos push e back do vue router
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Imagem do projeto
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<h4 align="center">
+    <img src="@/assets/Capturar.PNG">
+</h4>
